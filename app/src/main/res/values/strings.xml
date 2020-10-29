@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">LuPay</string>
+    <string name="app_name">SMQT</string>
     <string name="action_settings">ABOUT</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="title_activity_offerpage">offerpage</string>
+    <string name="about_us">About Us</string>
 </resources>

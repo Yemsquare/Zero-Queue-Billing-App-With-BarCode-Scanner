@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Zero-Queue-Billing-App-With-BarCode-Scanner.iml" filepath="$PROJECT_DIR$/.idea/Zero-Queue-Billing-App-With-BarCode-Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Zero-Queue-Billing-App-With-BarCode-Scanner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Zero-Queue-Billing-App-With-BarCode-Scanner.app.iml" />
     </modules>
   </component>
 </project>
